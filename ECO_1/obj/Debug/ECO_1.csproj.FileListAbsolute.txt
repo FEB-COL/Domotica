@@ -1,0 +1,22 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\ECO_1\ECO_1\bin\Debug\ECO_1.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\ECO_1\ECO_1\bin\Debug\ECO_1.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\ECO_1\ECO_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\ECO_1\ECO_1\obj\Debug\ECO_1.Form1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\ECO_1\ECO_1\obj\Debug\ECO_1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\ECO_1\ECO_1\obj\Debug\ECO_1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\ECO_1\ECO_1\obj\Debug\ECO_1.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\ECO_1\ECO_1\obj\Debug\ECO_1.pdb
+C:\Documents and Settings\HOME\Escritorio\ECO_1\ECO_1\obj\Debug\ECO_1.exe
+C:\Documents and Settings\HOME\Escritorio\ECO_1\ECO_1\obj\Debug\ECO_1.pdb
+G:\FEBB1\PROYECTOS\ECO_1\ECO_1\obj\Debug\ECO_1.exe
+G:\FEBB1\PROYECTOS\ECO_1\ECO_1\obj\Debug\ECO_1.pdb
+D:\PROYECTOS\ECO_1\ECO_1\obj\Debug\ECO_1.exe
+D:\PROYECTOS\ECO_1\ECO_1\obj\Debug\ECO_1.pdb
+D:\PROYECTOS\ECO_1\ECO_1\bin\Debug\ECO_1.exe
+D:\PROYECTOS\ECO_1\ECO_1\bin\Debug\ECO_1.pdb
+D:\PROYECTOS\ECO_1\ECO_1\obj\Debug\ResolveAssemblyReference.cache
+D:\PROYECTOS\ECO_1\ECO_1\obj\Debug\ECO_1.Form1.resources
+D:\PROYECTOS\ECO_1\ECO_1\obj\Debug\ECO_1.Properties.Resources.resources
+D:\PROYECTOS\ECO_1\ECO_1\obj\Debug\ECO_1.csproj.GenerateResource.Cache
+E:\PROYECTOS\ECO_1\ECO_1\obj\Debug\ECO_1.exe
+E:\PROYECTOS\ECO_1\ECO_1\obj\Debug\ECO_1.pdb
